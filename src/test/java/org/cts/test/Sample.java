@@ -23,5 +23,10 @@ public class Sample {
 	public void test5() {
 		System.out.println("5");
 	}
+	
+	@Test
+	public void test89() {
+		System.out.println("89");
+	}
 
 }
